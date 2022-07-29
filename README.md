@@ -2,7 +2,7 @@
 Simple slider. Have nav dots and slide number.
 # Settings
 slider({
-        container: '.offer__slider',
+        container: '.offer__slider', </br>
         next: '.offer__slider-next',
         prev: '.offer__slider-prev',
         slide: '.offer__slide',
