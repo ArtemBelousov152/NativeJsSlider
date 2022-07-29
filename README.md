@@ -1,6 +1,7 @@
 # NativeJsSlider
 Simple slider. Have nav dots and slide number. </br>
-### Settings </br>
+## Settings </br>
+```JS
 slider({ </br>
         container: '.offer__slider', </br>
         next: '.offer__slider-next', </br>
@@ -11,3 +12,4 @@ slider({ </br>
         wrapper: '.offer__slider-wrapper', </br>
         field: '.offer__slider-inner' </br>
     }); </br>
+```
